@@ -47,12 +47,13 @@ table {
 	border-spacing: 0;
 }
 
-
+/*======css reset end======*/
 
 .wrap{
     max-width: 1366px;
     margin: 0 auto;
 }
+
 /*======header======*/
 
 .header-img{
@@ -88,8 +89,6 @@ table {
     font-family: 微軟正黑體;font-size: 22px;font-weight: bold;
 }
 
-
-
 /*======content======*/
 
 .contentClass{
@@ -106,7 +105,6 @@ table {
 }
 
 
-
 .contentClass table {
     width: 850px;height: 80px;
     margin: 20px auto 5px auto;
@@ -114,7 +112,6 @@ table {
     background: #fff;
 
     line-height: 80px;
-    /*text-align: center;*/
     font-family: 微軟正黑體;font-size: 18px;color: gray;
 }
 
